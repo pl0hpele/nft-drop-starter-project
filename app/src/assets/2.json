@@ -1,0 +1,19 @@
+{
+  "name": "NFT-001",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "G5Ee5y4W8VKxt6fgndM28SyqHZi6RNb4wjaUWLjqaySE",
+        "share": 100
+      }
+    ]
+  }
+}
